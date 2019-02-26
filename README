@@ -1,0 +1,1 @@
+Usage: sudo ./<the name of the excutable> -b <brightness between 1 and 6> -m "<the message to show>"
